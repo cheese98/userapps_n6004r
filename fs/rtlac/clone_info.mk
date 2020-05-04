@@ -1,0 +1,1 @@
+clones/n6004r/clone_info.mk
